@@ -1,2 +1,2 @@
 # Dice-game
-dice game with 2 dices
+dice game with 2 dices.
